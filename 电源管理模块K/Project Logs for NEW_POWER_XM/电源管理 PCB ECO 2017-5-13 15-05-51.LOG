@@ -1,7 +1,0 @@
-Added Component: Designator=VCC1(CHP_×ªÑ¹Ä£¿é)
-Added Pin To Net: NetName=VCC_5 Pin=VCC1-0
-Added Pin To Net: NetName=VCC_24 Pin=VCC1-1
-Added Pin To Net: NetName=GND Pin=VCC1-2
-Added Pin To Net: NetName=GND Pin=VCC1-3
-Added Member To Class: ClassName=Sheet1 Member=Component VCC1 TRANSFORM
-Added Room: Name=Sheet1
