@@ -1,0 +1,21 @@
+Added Component: Designator=F1(HDR_XT30)
+Added Component: Designator=IMU1(HDR_XT30)
+Added Component: Designator=T1(HDR_XT30)
+Added Component: Designator=T3(HDR_XT30)
+Added Component: Designator=WATCH1(HDR_XT30)
+Added Pin To Net: NetName=CONTROL_VCC5 Pin=F1-1
+Added Pin To Net: NetName=GND Pin=F1-2
+Added Pin To Net: NetName=NetIMU1_1 Pin=IMU1-1
+Added Pin To Net: NetName=GND Pin=IMU1-2
+Added Pin To Net: NetName=CONTROL_VCC5 Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=CONTROL_VCC5 Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-2
+Added Pin To Net: NetName=NetR_7_2 Pin=WATCH1-1
+Added Pin To Net: NetName=GND Pin=WATCH1-2
+Added Member To Class: ClassName=Sheet1 Member=Component F1 T型插头_WYN
+Added Member To Class: ClassName=Sheet1 Member=Component IMU1 T型插头_WYN
+Added Member To Class: ClassName=Sheet1 Member=Component T1 T型插头_WYN
+Added Member To Class: ClassName=Sheet1 Member=Component T3 T型插头_WYN
+Added Member To Class: ClassName=Sheet1 Member=Component WATCH1 T型插头_WYN
+Added Room: Name=Sheet1

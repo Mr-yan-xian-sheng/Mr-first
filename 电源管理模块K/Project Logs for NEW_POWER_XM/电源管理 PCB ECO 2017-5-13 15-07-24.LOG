@@ -1,0 +1,19 @@
+Added Component: Designator=VCC1(CHP_转压模块)
+Added Component: Designator=VCC2(CHP_转压模块)
+Added Component: Designator=VCC3(CHP_转压模块)
+Added Pin To Net: NetName=VCC_5 Pin=VCC1-0
+Added Pin To Net: NetName=VCC_24 Pin=VCC1-1
+Added Pin To Net: NetName=GND Pin=VCC1-2
+Added Pin To Net: NetName=GND Pin=VCC1-3
+Added Pin To Net: NetName=VCC_9.6 Pin=VCC2-0
+Added Pin To Net: NetName=VCC_24 Pin=VCC2-1
+Added Pin To Net: NetName=GND Pin=VCC2-2
+Added Pin To Net: NetName=GND Pin=VCC2-3
+Added Pin To Net: NetName=VCC_12 Pin=VCC3-0
+Added Pin To Net: NetName=VCC_24 Pin=VCC3-1
+Added Pin To Net: NetName=GND Pin=VCC3-2
+Added Pin To Net: NetName=GND Pin=VCC3-3
+Added Member To Class: ClassName=Sheet1 Member=Component VCC1 TRANSFORM
+Added Member To Class: ClassName=Sheet1 Member=Component VCC2 TRANSFORM
+Added Member To Class: ClassName=Sheet1 Member=Component VCC3 TRANSFORM
+Added Room: Name=Sheet1

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=S3 Old Footprint=ELE_船型开关 New Footprint=ELE_船型开关1_D
+Change Component Footprint: Designator=S6 Old Footprint=ELE_船型开关 New Footprint=ELE_船型开关1_D
+Change Component Footprint: Designator=S7 Old Footprint=ELE_船型开关 New Footprint=ELE_船型开关1_D
+Added Room: Name=Sheet1
